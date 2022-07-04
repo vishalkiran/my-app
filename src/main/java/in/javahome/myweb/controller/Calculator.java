@@ -10,6 +10,8 @@ public class Calculator {
 	 * @return int
 	 */
 	public int add(int i, int j){
+		string name = null;
+		name.tostring();
 		return i+j;
 	}
 	public int multiply(int i, int j){
